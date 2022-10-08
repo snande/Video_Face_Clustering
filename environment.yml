@@ -1,0 +1,13 @@
+name: face_rec
+channels:
+  - defaults
+dependencies:
+  - cmake
+  - dlib
+  - face_recognition
+  - opencv
+  - matplotlib
+  - streamlit
+  - pillow
+  - pytube
+prefix: /opt/conda/envs/face_rec
